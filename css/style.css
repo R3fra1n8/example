@@ -6,4 +6,8 @@ p {
 }
 h1 { text-transform: uppecase; 
     color: darkmagenta;
-} text-transform: uppecase; 
+ text-transform: uppecase; 
+    font-size: 24px;
+    font-style: italic;
+}
+
