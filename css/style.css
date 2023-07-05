@@ -11,8 +11,7 @@ h1 { text-transform: uppecase;
     font-style: italic;
 }
 
-img { 
-    border: solid red 5px;
-    border-radius: 20px;
+img {
+    border: dotted blue 3px;
+    border-radius: 30px;
 }
-
