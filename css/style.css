@@ -6,3 +6,7 @@ p {
     font-size: 24px;
     font-style: italic;
 }
+img {
+    border: dotted blue 3px;
+    border-radius: 30px;
+}
